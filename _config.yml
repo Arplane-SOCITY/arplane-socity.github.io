@@ -26,9 +26,9 @@ authors:
     name: Anonymous(User)
     display_name: Annonymous(User Blog)
     gravatar: 0bc83cb571cd1c50ba6f3e8a78ef1346
-    email: null
-    web: null
-    twitter: null
+    email: XXXXXXXX@XXXXXXX.XXX
+    web: https://arplane-socity.github.io
+    twitter: https://twitter.com/XXXXXXXXXXXXX
     description: "The User Blog Is Not Created By Developer And Not A Arplane Official"
 
 # Plugins
