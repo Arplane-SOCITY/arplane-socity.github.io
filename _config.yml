@@ -21,6 +21,15 @@ authors:
     web: https://arplane-socity.github.io
     twitter: https://twitter.com/chayaphol1234
     description: "Arplane Developer"
+    
+   anonymous:
+    name: Anonymous(User)
+    display_name: Annonymous(User Blog)
+    gravatar: 9252316a80850d5bac24d3b982779306
+    email: null
+    web: null
+    twitter: null
+    description: "The User Blog Is Not Created By Developer And Not A Arplane Official"
 
 # Plugins
 plugins:
